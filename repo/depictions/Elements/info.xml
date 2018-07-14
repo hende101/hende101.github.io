@@ -17,8 +17,15 @@
             It is currently in beta so please leave feedback.</description>
 	</descriptionlist>
 	<screenshots>
-    https://hende101.github.io/repo/depictions/Elements/IMG_6033.png
     
+    <screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>IMG_6033.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>	
     </screenshots>
 	<changelog>
 		<change>Initial release</change>
