@@ -8,7 +8,7 @@
 		<link>
 			<name>Join my Discord</name>
 			<url>https://discord.gg/gQcT4dw</url>
-			<iconclass>fa fa-discord</iconclass>
+			<iconclass>fab fa-discord</iconclass>
 		</link>
 	</footerlinks>
 </repo>
