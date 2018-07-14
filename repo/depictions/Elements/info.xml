@@ -20,11 +20,11 @@
     
     <screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>IMG_6033.png</image>
+			<image>IMG_6033.PNG</image>
 		</screenshot>		
 		<screenshot>
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>IMG_6034.PNG</image>
 		</screenshot>	
     </screenshots>
 	<changelog>
