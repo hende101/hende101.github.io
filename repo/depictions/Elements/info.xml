@@ -19,19 +19,19 @@
 	<screenshots>
     
     <screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<description>Abenibe settings</description>
 			<image>IMG_6033.PNG</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>Icons-main</description>
 			<image>IMG_6034.PNG</image>
 		</screenshot>	
         <screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>Icons-utilities</description>
 			<image>IMG_6035.PNG</image>
 		</screenshot>
         <screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>Icons-jailbreak</description>
 			<image>IMG_6036.PNG</image>
 		</screenshot>
     </screenshots>
